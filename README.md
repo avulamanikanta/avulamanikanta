@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **SQL,TABLEAU,PYTHON**
 
-- 📫 How to reach me **avulamanikanta@outlook.com**
+- 📫 How to reach me **manikanta.datascientist@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
